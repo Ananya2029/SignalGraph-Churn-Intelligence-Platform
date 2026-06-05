@@ -61,11 +61,9 @@ streamlit run app/app.py
 ```
 
 ---
-
-```markdown
 ## Repository Structure
+```markdown
 
-```text
 Customer-Churn-Project/
 │
 ├── app/
