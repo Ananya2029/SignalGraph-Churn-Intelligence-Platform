@@ -1,5 +1,7 @@
 # SignalGraph Churn Intelligence Platform
 
+AI-powered customer churn prediction platform with Explainable AI (SHAP), risk segmentation, retention recommendations, and interactive Streamlit dashboards.
+
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-MachineLearning-orange)
 ![SHAP](https://img.shields.io/badge/ExplainableAI-SHAP-green)
@@ -38,3 +40,104 @@ Key capabilities include:
 - Feature importance analysis
 - Retention recommendation engine
 - Interactive Streamlit dashboard
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR_USERNAME/SignalGraph-Churn-Intelligence-Platform.git
+```
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+Run the application:
+
+```bash
+
+streamlit run app/app.py
+```
+
+---
+
+```markdown
+## Repository Structure
+
+```text
+Customer-Churn-Project/
+│
+├── app/
+│   └── app.py
+│
+├── dashboard/
+│   └── PowerBI.pbix
+│
+├── data/
+│   └── Telco-Customer-Churn.csv
+│
+├── images/
+│   ├── dashboard.png
+│   ├── prediction.png
+│   ├── shap.png
+│   └── feature_importance.png
+│
+├── model/
+│   ├── columns.pkl
+│   ├── model.pkl
+│   └── scaler.pkl
+│
+├── notebook/
+│   └── churn_analysis.ipynb
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+## Technologies Used
+
+### Programming
+
+* Python
+* SQL
+
+### Data Analysis
+
+* Pandas
+* NumPy
+
+### Machine Learning
+
+* Scikit-learn
+
+### Explainable AI
+
+* SHAP
+
+### Visualization
+
+* Matplotlib
+* Seaborn
+* Plotly
+* Power BI
+
+### Deployment
+
+* Streamlit
+
+### Version Control
+
+* Git
+* GitHub
+
+```
+```
+---
+
+Open the terminal and run:
+
+```bash
+
+git status
