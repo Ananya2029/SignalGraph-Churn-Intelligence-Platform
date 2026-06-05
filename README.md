@@ -132,8 +132,6 @@ Customer-Churn-Project/
 * Git
 * GitHub
 
-```
-```
 ---
 
 Open the terminal and run:
